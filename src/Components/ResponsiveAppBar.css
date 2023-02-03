@@ -1,0 +1,28 @@
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+}
+
+.nav-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+   
+}
+.nav-icons{
+    margin: 0.5rem;
+    align-items: center;
+color: black;
+}
+@media only screen and (max-width:500px) {
+    .nav-icons{
+        display: none;
+    }
+    .image{
+       margin-right: auto;
+    }
+    
+}

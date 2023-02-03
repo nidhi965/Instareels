@@ -1,0 +1,29 @@
+.profile-con{
+    margin-left: 18%;
+    margin-right: 18%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.profile-vid{
+    margin-left: 18%;
+    margin-right: 18%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 30%;
+}
+.profile-vid > video{
+    height: 75vh;
+    width: 20rem;
+  
+    /*background-color: aqua;*/
+    object-fit: contain;
+    border-radius: 15px;
+   padding: 0.5rem;
+}

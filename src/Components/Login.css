@@ -1,0 +1,54 @@
+.loginwraper{
+    display: flex;
+    justify-content: center;
+   
+
+}
+.signupCard{
+    width: 32vw;
+    margin-top: 5%;
+  margin-right: 18%;
+}
+.insta-logo{
+    display: flex;
+    height:30%;
+    align-items: center;
+}
+.img2{
+    height: 3vw;
+}
+
+.text1{
+height: 10%;
+}
+.imgcar{
+    height: 500px;
+    width: 400px;
+ margin-top: 10%;
+    margin-left: 40%;
+    position: relative;
+
+}
+.car{
+    height: 9px;
+    width: 150px;
+  position: absolute;
+  left:8px;
+  top:28px;
+  right: 20px;
+}
+@media only screen and (max-width:620px){
+    .signupCard{
+        width: 60%;
+    }
+    .insta-logo{
+        width: 15%;
+    }
+}
+@media only screen and (max-width:620px){
+    
+    .insta-logo{
+        width: 15%;
+        height: 20%;
+    }
+}
