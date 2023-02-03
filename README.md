@@ -9,7 +9,8 @@ user can Like and dislike the reel.Go to profile page and logout from there.
 He/She can also upload the reels they want.
 on reels their will be name and profile pic of the user who had uploaded that.
 
-Reels will be automatically scrolled up to next reel on ending.
+Reels will be automatically scrolled up to next reel on ending.This feature is  implemented by using Intersection Observer API.
+Firebase Auth,Storage and Firestore has been used for storing user and post data.
 
 Do checkout the application on link provided below.Copy the link and open it in your local browser.
 
