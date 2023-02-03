@@ -11,7 +11,7 @@ on reels their will be name and profile pic of the user who had uploaded that.
 
 Reels will be automatically scrolled up to next reel on ending.
 
-Do checkout the application on link provided below.
+Do checkout the application on link provided below.Copy the link and open it in your local browser.
 
 
 login using following credential:
